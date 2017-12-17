@@ -1,13 +1,20 @@
-#Ideas Masterlist
-##Users
+#Ideas Masterlist  
+
+##Users  
+
 1. has_many cubes
-##Cubes
+
+##Cubes  
+
 1. has_many cards
-##Cards
+
+##Cards  
+
 1. All data filled in to form using Advanced tab
 2. AJAX request imports data from API by search feature
 3. Stage Line can be selected on both Create and Update actions
 4. Possible fields  
+
   1. ID (*int*)
   2. Cube_ID (*int*)
   3. Quantity (*int*)
